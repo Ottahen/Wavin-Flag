@@ -57,4 +57,4 @@ This executes all five demonstrations:
 
 ## License
 
-MIT — Use at your own risk. The authors are not responsible for interpreter crashes or existential dread caused by reading the source code.
+APACHE 2.0 — Use at your own risk. The authors are not responsible for interpreter crashes or existential dread caused by reading the source code.
